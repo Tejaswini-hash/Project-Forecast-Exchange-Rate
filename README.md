@@ -34,8 +34,8 @@ To deploy this project run
 
   
 ## Visualizations:
-
-  ![Whole dataset](https://user-images.githubusercontent.com/83467392/136238632-868a0c2f-39a7-4a5b-9643-d624a48feee0.png)
+1. Whole dataset
+![Whole dataset](https://user-images.githubusercontent.com/83467392/136238632-868a0c2f-39a7-4a5b-9643-d624a48feee0.png)
 
 ## Credit:
 
