@@ -36,8 +36,12 @@ To deploy this project run
 ## Visualizations:
 1. Whole dataset
 ![Whole dataset](https://user-images.githubusercontent.com/83467392/136238632-868a0c2f-39a7-4a5b-9643-d624a48feee0.png)
+2.Box Plot
+[2021-10-06 (15)](https://user-images.githubusercontent.com/83467392/136239267-bf37feaf-b470-43f1-9d02-5facc6c7da12.png)
 
-## Credit:
+
+
+## Credit:!
 
 - Worked with team, good working experience and under observation of ExcelR Solution mentor they give a chance to did end-to-end project.
   
