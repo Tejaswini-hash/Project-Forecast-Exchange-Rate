@@ -35,7 +35,7 @@ To deploy this project run
   
 ## Visualizations:
 
-  ![2021-10-06 (25)](https://user-images.githubusercontent.com/83467392/136238341-af769699-ba17-469c-9556-c6aed9285722.png)
+  ![Whole dataset](https://user-images.githubusercontent.com/83467392/136238632-868a0c2f-39a7-4a5b-9643-d624a48feee0.png)
 
 ## Credit:
 
