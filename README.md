@@ -49,6 +49,7 @@ To deploy this project run
 
 ![2021-10-06 (21)](https://user-images.githubusercontent.com/83467392/136239891-a2075b60-45e9-4295-8634-45ff68a01ebe.png)
 
+GRU Plot:
 ![2021-10-06 (25)](https://user-images.githubusercontent.com/83467392/136239952-4b51c132-0564-4445-ba42-dc4e3a683ca3.png)
 
 
