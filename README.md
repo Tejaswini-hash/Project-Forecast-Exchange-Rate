@@ -35,20 +35,8 @@ To deploy this project run
   
 ## Visualizations:
 
-![Whole dataset](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116975&parId=819A5E860944B525%21305&o=OneUp)
-![Box Plot](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116989&parId=819A5E860944B525%21305&o=OneUp)
-![Stationary data](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116990&parId=819A5E860944B525%21305&o=OneUp)
-![Decompose_graph](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116991&parId=819A5E860944B525%21305&o=OneUp)
-![Correlation graph](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116992&parId=819A5E860944B525%21305&o=OneUp)
-![Lag plot](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116993&parId=819A5E860944B525%21305&o=OneUp)
-![ARIMA MODEL](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116994&parId=819A5E860944B525%21305&o=OneUp)
-![Fb-prophet](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116995&parId=819A5E860944B525%21305&o=OneUp)
-![pycaret](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116996&parId=819A5E860944B525%21305&o=OneUp)
-![ANN](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116997&parId=819A5E860944B525%21305&o=OneUp)
-![LSTM](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116998&parId=819A5E860944B525%21305&o=OneUp)
-![GRU](https://onedrive.live.com/?cid=819A5E860944B525&id=819A5E860944B525%2116999&parId=819A5E860944B525%21305&o=OneUp)
+  ![2021-10-06 (25)](https://user-images.githubusercontent.com/83467392/136238341-af769699-ba17-469c-9556-c6aed9285722.png)
 
-  
 ## Credit:
 
 - Worked with team, good working experience and under observation of ExcelR Solution mentor they give a chance to did end-to-end project.
